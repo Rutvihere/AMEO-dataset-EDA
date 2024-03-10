@@ -41,11 +41,17 @@ Gender Disparity: Differences in median experience, inconclusive evidence for sa
 EDA Steps
 
 1.Data Collection: Gather the dataset from relevant sources.
+
 2.Data Cleaning: Handle missing values, outliers, and inconsistencies.
+
 3.Exploratory Analysis: Examine summary statistics and distributions.
+
 4.Relationship Exploration: Investigate correlations and patterns between variables.
+
 5.Visualization: Create visual representations of the data.
+
 6.Insights and Conclusions: Document findings and draw insights.
+
 
 Data Description
 
