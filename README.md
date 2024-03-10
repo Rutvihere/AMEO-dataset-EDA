@@ -10,23 +10,36 @@ The objective of this project is to conduct an exploratory data analysis (EDA) o
 Key Objectives
 
 1.Discover Salary Patterns: Explore salary distributions across different job titles and cities to identify any significant trends or patterns.
+
 2.Investigate Influential Factors: Investigate the connections between education, gender, job title, skills, experience, and other personal attributes, and their impact on salary levels.
+
 3.Validate Findings: Support our observations and hypotheses with statistical analysis to ensure the reliability and validity of our conclusions.
 
 Overall Observations
 
 Job Placements: Bangalore, Noida, Hyderabad, and Pune are preferred for job placements, with Mumbai and Kolkata being less favored.
+
 Gender Distribution: The dataset shows an imbalance in gender representation.
+
 Educational Background: B.Tech graduates are predominant, with fewer M.Sc(Tech) graduates.
+
 Graduation Years: Highest number of graduates in 2013, closely followed by 2014 and 2012.
+
 Salary Distribution: Right-skewed, with similar distributions below 10 lakhs.
+
 Specializations: Similar median salaries; CS/EC specializations earn higher.
+
 Designations: Software Engineering is common; males dominate.
+
 Role-Based Pay: Senior software engineers earn the most; females in Test Engineer roles earn more than males.
+
 Experience vs. Salary: Median salaries peak around 3.5-5 lakhs; skewed tenure distribution.
+
 Gender Disparity: Differences in median experience, inconclusive evidence for salary differences solely due to experience.
 
+
 EDA Steps
+
 1.Data Collection: Gather the dataset from relevant sources.
 2.Data Cleaning: Handle missing values, outliers, and inconsistencies.
 3.Exploratory Analysis: Examine summary statistics and distributions.
